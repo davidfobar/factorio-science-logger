@@ -1,0 +1,9 @@
+{
+  "name": "factorio-science-logger",
+  "version": "0.1.2",
+  "title": "Science Logger",
+  "author": "fobar22",
+  "description": "Logs the currently consumed science packs to a text file.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"]
+}
